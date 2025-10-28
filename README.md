@@ -16,4 +16,5 @@
 ├── dist/ # Збірка для продакшену (генерується Gulp)
 ├── gulpfile.js # Конфігурація Gulp
 ├── package.json
-└── index.html```
+└── index.html
+```
